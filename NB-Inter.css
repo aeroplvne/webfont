@@ -1,27 +1,27 @@
 
 @font-face {
-    font-family: 'NB International Pro Bold Italic';
+    font-family: 'NB International';
     src: url('https://aeroplvne.github.io/webfont/NB-International-Pro-Bold-Italic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'NB International Pro Bold';
+    font-family: 'NB International';
     src: url('https://aeroplvne.github.io/webfont/NB-International-Pro-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'NB International Regular';
+    font-family: 'NB International';
     src: url('https://aeroplvne.github.io/webfont/NB-International-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'NB International Italic';
+    font-family: 'NB International';
     src: url('https://aeroplvne.github.io/webfont/NB-International-Pro-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
